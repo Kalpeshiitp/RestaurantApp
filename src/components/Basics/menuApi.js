@@ -11,8 +11,8 @@ const Menu = [
   
     {
       id: 2,
-      image: "images/allupakoida.jpg",
-      name: "allu pakoida",
+      image: "images/aloopakoida.jpg",
+      name: "aloo pakoida",
       category: "evening",
       price: "20₹",
       description:
@@ -90,15 +90,7 @@ const Menu = [
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
     },
-  //  {
-  //    id: 11,
-  //   image: "../images/Divya.jpg",
-  //   name: "Divya's special",
-  //   category: "Divya",
-  //   price: "10₹",
-  //   description:
-  //     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
-  // },
+ 
   ];
   
   export default Menu;

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Kalpeshiitp/RestaurantApp/static/css/main.17655c3c.css",
+    "main.js": "/Kalpeshiitp/RestaurantApp/static/js/main.9b0f9763.js",
+    "index.html": "/Kalpeshiitp/RestaurantApp/index.html",
+    "main.17655c3c.css.map": "/Kalpeshiitp/RestaurantApp/static/css/main.17655c3c.css.map",
+    "main.9b0f9763.js.map": "/Kalpeshiitp/RestaurantApp/static/js/main.9b0f9763.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17655c3c.css",
+    "static/js/main.9b0f9763.js"
+  ]
+}
